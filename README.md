@@ -1,0 +1,1 @@
+# TIM-Barrels_AverageStructureCalculation
